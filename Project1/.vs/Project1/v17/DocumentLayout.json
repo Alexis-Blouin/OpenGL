@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alexis\\Documents\\GitHub\\OpenGL\\Project1\\",
+  "WorkspaceRootPath": "C:\\Users\\bloui\\Documents\\GitHub\\OpenGL\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4EF2E08D-C1B0-4342-843D-C94442841B71}|Project1\\Project1.vcxproj|C:\\Users\\Alexis\\Documents\\GitHub\\OpenGL\\Project1\\Project1\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4EF2E08D-C1B0-4342-843D-C94442841B71}|Project1\\Project1.vcxproj|C:\\Users\\bloui\\Documents\\GitHub\\OpenGL\\Project1\\Project1\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4EF2E08D-C1B0-4342-843D-C94442841B71}|Project1\\Project1.vcxproj|solutionrelative:Project1\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Application.cpp",
-              "DocumentMoniker": "C:\\Users\\Alexis\\Documents\\GitHub\\OpenGL\\Project1\\Project1\\src\\Application.cpp",
+              "DocumentMoniker": "C:\\Users\\bloui\\Documents\\GitHub\\OpenGL\\Project1\\Project1\\src\\Application.cpp",
               "RelativeDocumentMoniker": "Project1\\src\\Application.cpp",
-              "ToolTip": "C:\\Users\\Alexis\\Documents\\GitHub\\OpenGL\\Project1\\Project1\\src\\Application.cpp",
+              "ToolTip": "C:\\Users\\bloui\\Documents\\GitHub\\OpenGL\\Project1\\Project1\\src\\Application.cpp",
               "RelativeToolTip": "Project1\\src\\Application.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-26T16:05:59.486Z",
               "EditorCaption": ""
